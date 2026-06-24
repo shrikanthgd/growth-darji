@@ -1,4 +1,4 @@
-# Growth Darji — Site & Insights (How to publish)
+  # Growth Darji — Site & Insights (How to publish)
 
 This is your live website plus a self-updating Insights (blog) system.
 You never touch the design. To publish an article you do **two small things**.
