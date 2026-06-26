@@ -24,6 +24,15 @@
    ─────────────────────────────────────────────────────────────── */
 
 window.POSTS = [
+{
+    title: "Performance vs Brand",
+    excerpt: "The false choice that quietly caps growth. Why the brands that compound stop treating it as either/or — and how to split the budget without starving either one.",
+    topic: "Brand",
+    date: "2026-06-26",
+    read: "5 min",
+    url: "posts/brand-vs-performance.html"
+  },
+
   {
     title: "Retention is the holy grail. Most brands are digging in the wrong place.",
     excerpt: "Every founder says they care about it — almost none build for it. Why 80% of budgets chase acquisition, and where the real profit is actually buried.",
