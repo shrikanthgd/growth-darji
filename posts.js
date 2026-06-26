@@ -31,7 +31,7 @@ window.POSTS = [
     date: "2026-06-26",
     read: "5 min",
     url: "posts/brand-vs-performance.html"
-  }
+  },
   {
     title: "Retention is the holy grail. Most brands are digging in the wrong place.",
     excerpt: "Every founder says they care about it — almost none build for it. Why 80% of budgets chase acquisition, and where the real profit is actually buried.",
